@@ -8,3 +8,4 @@ s2 = a**2
 
 print(s1,s2)
 print(s2- s1)
+ddddxsq

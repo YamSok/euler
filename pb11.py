@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 #entrer la matrice
 #li = [input().split() for i in range(3)]
